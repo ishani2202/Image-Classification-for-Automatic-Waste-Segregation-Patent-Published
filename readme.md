@@ -1,4 +1,4 @@
-# 🚤 Autonomous Waste Segregation Boat 🌊
+# Autonomous Waste Segregation Boat 
 
 Welcome to the **Autonomous Waste Segregation Boat** project, an innovative solution addressing water pollution by autonomously classifying and collecting waste in water bodies. Designed with deep learning and robotics, this boat navigates independently, identifying waste as biodegradable or non-biodegradable with a high level of accuracy. This work is a significant contribution to environmental tech, and it’s patented as a **Waste Segregation System using Deep Learning**.
 
